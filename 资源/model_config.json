@@ -1,0 +1,12 @@
+{
+    "className_list":[
+        "fish",
+        "human_face"
+    ],
+    "source" : "fish",
+    "backbone" : "resnet50",
+    "image_width" : 640,
+    "image_height" : 640,
+    "batch_size" : 2,
+    "steps_per_epoch" : 4000
+}
